@@ -1,6 +1,4 @@
-# UD1_Ej7 - API de Java
-
-Repositorio asociado a la tarea de GitHub Classroom sobre **API de Java**.
+# UD1_Ej7 - Cuadernillo API de Java
 
 ## 📌 Instrucciones
 
@@ -11,6 +9,5 @@ ila y se ejecuta correctamente** antes de subirlo.
 
 ## 📤 Entrega
 
-1. Completa el documento de Google Classroom con las respuestas teórico-prácticas.
-2. Sube tus programas `.java` a este repositorio, en la rama `main`.
-3. Marca la tarea como **Completada** en Google Classroom y adjunta el documento con tus respuestas.
+1. Sube tus programas `.java` a este repositorio, en la rama `main`.
+2. Adjunta el documento con tus respuestas al cuestionario teórico-práctico de Google Classroom y marca la tarea como **Completada** 
