@@ -5,9 +5,9 @@ Repositorio asociado a la tarea de GitHub Classroom sobre **API de Java**.
 ## 📌 Instrucciones
 
 - Responde a las **preguntas teórico-prácticas** en el documento de Google Classroom.
-- Realiza los **ejercicios prácticos de programación** en este repositorio, creando un archivo `.java` por cada ejercicio con el nombre indicado (Ej01.java, Ej02.java, ...).
+- Realiza los **ejercicios prácticos de programación** en este repositorio, creando en Codespace un archivo `.java` por cada ejercicio con el nombre indicado (Ej01.java, Ej02.java, ...).
 - Todos los archivos `.java` deben estar en el directorio raíz del repositorio.
-- Verifica que cada programa **compila y se ejecuta correctamente** antes de subirlo.
+ila y se ejecuta correctamente** antes de subirlo.
 
 ## 📤 Entrega
 
